@@ -1,6 +1,6 @@
 {
   "name": "fullstory-asset-sdk",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A lightweight SDK for integrating FullStory session tracking and asset uploading, designed for React apps and CLI automation.",
   "homepage": "https://github.com/CarGDev/fullstory-asset-sdk#readme",
   "keywords": [
